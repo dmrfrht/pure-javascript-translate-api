@@ -1,4 +1,4 @@
-# pure-javascript-translate-api
+# Pure JavaScript Yandex Translate API
 
 1. To run the project, all you need to do is get an api key from `yandex translate api`.
 1. Then you need to edit the part `this.apiKey = "XXXXXX-XXXXXX"` in this api key `js / translate.js file.
